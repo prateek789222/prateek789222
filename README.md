@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/9_V4hmy3gTs/maxresdefault.jpg)](https://prateek789222.io)
+[![MasterHead](https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif)](https://prateek789222.io)
 <h1 align="center">Hi 👋, I'm Prateek Sourav</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://wallup.net/wp-content/uploads/2019/09/897863-hacker-hack-hacking-internet-computer-anarchy-poster.jpg">
